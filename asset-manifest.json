@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TUSHAR-coder-eng/my-portfolio.git/static/css/main.40623767.css",
+    "main.js": "/TUSHAR-coder-eng/my-portfolio.git/static/js/main.8fe27f7b.js",
+    "static/js/453.acca0757.chunk.js": "/TUSHAR-coder-eng/my-portfolio.git/static/js/453.acca0757.chunk.js",
+    "index.html": "/TUSHAR-coder-eng/my-portfolio.git/index.html",
+    "main.40623767.css.map": "/TUSHAR-coder-eng/my-portfolio.git/static/css/main.40623767.css.map",
+    "main.8fe27f7b.js.map": "/TUSHAR-coder-eng/my-portfolio.git/static/js/main.8fe27f7b.js.map",
+    "453.acca0757.chunk.js.map": "/TUSHAR-coder-eng/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40623767.css",
+    "static/js/main.8fe27f7b.js"
+  ]
+}
